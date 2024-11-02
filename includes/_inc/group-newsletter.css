@@ -1,0 +1,37 @@
+div.newsletter-container,
+div.newsletter-container div.newsletter
+{
+   margin-top: 20px; 
+}
+
+div.newsletter-container div.newsletter span.title
+{
+   font-weight: bold;
+}
+
+div.newsletter-container div.newsletter div.message
+{
+   margin: 4px;  
+}
+
+div.newsletter-container div.newsletter img.avatar
+{
+    margin-right: 6px;   
+    vertical-align: middle;
+    margin-top: 2px;
+}
+
+div.newsletter-container div.newsletter-footer {
+    background: none repeat scroll 0 0 #F0F0F0 !important;
+    border-bottom: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+    font-size: 1.2em;
+    margin: 15px 0 !important;
+    padding: 10px 15px !important;
+    text-align: center;
+}
+
+div.newsletter-container div.newsletter-footer span.more
+{
+    cursor: pointer
+}

@@ -1,0 +1,63 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/buddypress-group-newsletter\n"
+"POT-Creation-Date: 2011-05-12 06:00:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/buddypress-group-newsletter.php:15
+msgid "Newsletter"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:56
+msgid "Write a newsletter"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:62
+msgid "* Subject"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:65
+msgid "* Message"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:68
+msgid "Send Newsletter"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:99
+msgid "Load More"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:103
+msgid "No newsletter available"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:148
+msgid "Your newsletter has been sent."
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:151
+msgid "Please fill out the form completely"
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:165
+msgid "Newsletter from the group %s."
+msgstr ""
+
+#: includes/buddypress-group-newsletter.php:167
+msgid ""
+"Subject: \n"
+"%s\n"
+"\t\n"
+"Message:\n"
+"%s\n"
+"\n"
+msgstr ""
